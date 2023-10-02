@@ -39,4 +39,4 @@ Key components and functionalities of the Tic-Tac-Toe project:
 10. Project Completion: Once you've implemented all the features, thoroughly tested the game, and documented your work, you can consider your project complete. Remember to keep your code clean, well-organized, and well-documented throughout the development process. Breaking down the project into smaller tasks, as mentioned in the initial timeline, can help you manage your progress effectively.
 
 Anyone can Run/Folk a public repository, and then submit a pull request that proposes changes to the repository's GitHub Actions workflows.
-Replit Link : https://replit.com/@ankitkumaar0515/TicTacToe#Main.java
+Replit Link : https://replit.com/@ankitkumaar0515/TicTacToe#TicTacToe.java
